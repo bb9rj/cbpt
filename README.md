@@ -59,3 +59,7 @@ Enter the nickname of the user(s) you want to track, their Roblox ID(s), and the
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/1bf8c0d6-819b-41e0-bdbf-bf4257e4bb1f">
 
 
+## Download
+Desktop version: [https://github.com/bb9rj/cbpt/blob/main/points_checker_17.py]
+
+Mobile version: [https://github.com/bb9rj/cbpt/blob/main/points_checker_17_mobile.py]
