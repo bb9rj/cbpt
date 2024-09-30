@@ -54,3 +54,8 @@ Enter the nickname of the user(s) you want to track, their Roblox ID(s), and the
 
 ### Preview on macOS
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/5be2104e-1b02-451b-94dc-eced3d653e2d">
+
+### Preview on iOS
+![image](https://github.com/user-attachments/assets/1bf8c0d6-819b-41e0-bdbf-bf4257e4bb1f)
+
+
