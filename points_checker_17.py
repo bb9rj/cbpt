@@ -30,7 +30,7 @@ data = {
 }
 
 # Global variables
-huge_suffix_count = 0  # Counter for how many times "Huge!?" was added
+huge_suffix_count = 0  # Counter for how many times "Huge" was added
 interval_count = 0  # Counter for how many intervals the script has run
 
 # Helper function to calculate alignment spaces for names
