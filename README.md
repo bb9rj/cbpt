@@ -26,7 +26,7 @@ To run on iOS
 # Setup
 
 User data
-Enter the nickname of the user(s) you want to track, their roblox id(s), and the clan(s) they belong to
+/ Enter the nickname of the user(s) you want to track, their roblox id(s), and the clan(s) they belong to
 
 # Optional
 
