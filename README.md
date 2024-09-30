@@ -51,3 +51,6 @@ Enter the nickname of the user(s) you want to track, their Roblox ID(s), and the
 
 - **ALERT_URL**  
   The URL to visit when a user reports 0 points over multiple consecutive intervals.
+
+### Preview on macOS
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/5be2104e-1b02-451b-94dc-eced3d653e2d">
