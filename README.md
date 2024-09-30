@@ -1,4 +1,4 @@
-#Clan battle points tracker
+# Clan battle points tracker
 
 # About
 This is a simple script that pulls data from the Big Games API to track your clan battle points, it will note if it thinks you got a huge, and play a youtube video if you stop registering points.
