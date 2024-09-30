@@ -102,7 +102,7 @@ def fetch_and_display_user_data():
 
             # Check if the user has reached the threshold for consecutive 0-point updates
             if user["consecutive_zeros"] >= ZERO_POINTS_THRESHOLD:
-                alert = f"\n{user['name']} has {ZERO_POINTS_THRESHOLD} consecutive 0-point increases! Opening URL...\n"
+                alert = f"\n{user['name']} has {ZERO_POINTS_THRESHOLD} consecutive 0-point increases!\nOpening URL...\n"
                 webbrowser.open(ZERO_POINTS_URL)  # Open the alert URL
                 user["consecutive_zeros"] = 0  # Reset counter after opening URL
                 time.sleep(60)  # Sleep for 60 seconds before proceeding
