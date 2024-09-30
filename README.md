@@ -3,6 +3,8 @@
 # About
 This is a simple script that pulls data from the Big Games API to track your clan battle points, it will note if it thinks you got a huge, and play a youtube video if you stop registering points.
 
+
+
 # Running the script
 
 To run on MacOS 
@@ -23,11 +25,14 @@ To run on iOS
 1. Use an app like Pyto
 
 
+
 # Setup
 
 User data
 
 Enter the nickname of the user(s) you want to track, their roblox id(s), and the clan(s) they belong to
+
+
 
 # Optional
 
