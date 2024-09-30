@@ -24,8 +24,7 @@ data = {
     },
     "users": [
         dict(name="Ash", id=1524977286, clan="fr3e", last_points=0, current_points=0, total_points_earned=0, consecutive_zeros=0),
-        dict(name="Luker alt", id=2467377557, clan="fr3e", last_points=0, current_points=0, total_points_earned=0, consecutive_zeros=0),
-        dict(name="Thar", id=4975604602, clan="fr3e", last_points=0, current_points=0, total_points_earned=0, consecutive_zeros=0),
+        dict(name="Rocks", id=1328450348, clan="RFIL", last_points=0, current_points=0, total_points_earned=0, consecutive_zeros=0),
     ]
 }
 
