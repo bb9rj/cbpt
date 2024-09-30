@@ -26,25 +26,32 @@ To run on iOS
 # Setup
 
 User data
-/ Enter the nickname of the user(s) you want to track, their roblox id(s), and the clan(s) they belong to
+
+Enter the nickname of the user(s) you want to track, their roblox id(s), and the clan(s) they belong to
 
 # Optional
 
 API_URL
+
 This is prefilled with the Big Games API
 
 BATTLE_TYPE
+
 Prefilled with current battle
 
 UPDATE_INTERVAL_SECONDS
+
 Default setup is every 5 minutes
 
 WAIT_FOR_ZERO_SECONDS
+
 Each interval will wait to update when the seconds are 0 so it looks cleaner
 
 ZERO_POINTS_THRESHOLD
+
 How many period of 0 points reported before running the alert
 
 ZERO_POINTS_THRESHOLD
+
 The url to go to if the user has reported multiple consecutive intervals of 0 points
 
