@@ -1,4 +1,4 @@
-# Made by LetsGoPikachu and RocksBlocksSocks
+# Made by LetsGoPikachu36 and RocksBlocksSocks
 # 1100111 on discord
 
 import json
