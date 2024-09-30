@@ -23,9 +23,9 @@ data = {
         "huges": "Huges"
     },
     "users": [
-        dict(name="User 1", id=1524977286, clan="clan", last_points=0, current_points=0, total_points_earned=0, consecutive_zeros=0),
-        dict(name="User 2", id=2467377557, clan="clan", last_points=0, current_points=0, total_points_earned=0, consecutive_zeros=0),
-        dict(name="User 3", id=4975604602, clan="clan", last_points=0, current_points=0, total_points_earned=0, consecutive_zeros=0),
+        dict(name="Ash", id=1524977286, clan="fr3e", last_points=0, current_points=0, total_points_earned=0, consecutive_zeros=0),
+        dict(name="Luker alt", id=2467377557, clan="fr3e", last_points=0, current_points=0, total_points_earned=0, consecutive_zeros=0),
+        dict(name="Thar", id=4975604602, clan="fr3e", last_points=0, current_points=0, total_points_earned=0, consecutive_zeros=0),
     ]
 }
 
