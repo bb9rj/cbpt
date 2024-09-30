@@ -17,7 +17,7 @@ This is a simple script that pulls data from the **Big Games API** to track your
 
 1. Open the Command Prompt.
 2. Type `python`.
-3. Either `cd` to the directory of the script or provide the full path to the script file.
+3. Either `cd` to the directory of the script or provide the full path to the script file including the filename.
 4. Press `Enter`.
 
 **To stop the script:**  
