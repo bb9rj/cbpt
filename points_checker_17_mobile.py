@@ -11,9 +11,9 @@ from datetime import datetime
 API_URL = "https://biggamesapi.io/api/clan"
 BATTLE_TYPE = "CatchingBattle"
 UPDATE_INTERVAL_SECONDS = 110  # Default to 2 minutes, BIG API only updates every 60 seconds
+WAIT_FOR_ZERO_SECONDS = True  # Toggle for waiting until seconds are at 0 for the first update
 ZERO_POINTS_THRESHOLD = 2  # Number of 0-point increases in a row before opening URL
 ZERO_POINTS_URL = "https://www.youtube.com/watch?v=i77QVCt0D4U"  # URL to open when threshold is reached
-WAIT_FOR_ZERO_SECONDS = True  # Toggle for waiting until seconds are at 0 for the first update
 
 # Labels and user data combined
 data = {
