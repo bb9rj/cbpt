@@ -2,7 +2,7 @@
 
 ## About
 
-This is a simple script that pulls data from the **Big Games API** to track your clan's battle points. It will notify you if it thinks you caught a huge and can also play a YouTube video if you stop registering points.
+This is a simple script that pulls data from the Big Games API to track your clan battle points. It will notify you if it thinks you caught a huge and can also play a YouTube video if you stop registering points.
 
 ## Running the Script
 
