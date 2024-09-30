@@ -13,7 +13,7 @@ BATTLE_TYPE = "CatchingBattle"
 UPDATE_INTERVAL_SECONDS = 295  # Defaults to 5 mintues, BIG API only updates every 60 seconds
 WAIT_FOR_ZERO_SECONDS = True  # Toggle for waiting until seconds are at 0 for the first update
 ZERO_POINTS_THRESHOLD = 2  # Number of 0-point increases in a row before opening URL
-ZERO_POINTS_THRESHOLD = "https://www.youtube.com/watch?v=i77QVCt0D4U"  # URL to open when threshold is reached
+ZERO_POINTS_URL = "https://www.youtube.com/watch?v=i77QVCt0D4U"  # URL to open when threshold is reached
 
 # Labels and user data combined
 data = {
