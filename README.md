@@ -2,7 +2,7 @@
 
 ## About
 
-This is a simple script that pulls data from the Big Games API to track your clan battle points. It will notify you if it thinks you caught a huge and can also play a YouTube video if you stop registering points.
+This is a simple script that pulls data from the Big Games API to track your clan battle points. It will notify you if it thinks you caught a huge, and can also play a YouTube video if you stop registering points.
 
 ## Running the Script
 
@@ -41,7 +41,7 @@ Enter the nickname of the user(s) you want to track, their Roblox ID(s), and the
   Pre-filled with the current battle type.
 
 - **UPDATE_INTERVAL_SECONDS**  
-  The default update interval is set to every 5 minutes.
+  The default update interval is set to every 5 minutes on desktop, and 2 minutes on mobile.
 
 - **WAIT_FOR_ZERO_SECONDS**  
   Each interval will wait to update at the zero-second mark to ensure cleaner output.
