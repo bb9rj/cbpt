@@ -41,7 +41,7 @@ Press `Ctrl + C`.
   Pre-filled with the current battle type.
 
 - **UPDATE_INTERVAL_SECONDS**  
-  The default update interval is set to every 5 minutes on desktop, and 2 minutes on mobile.
+  The default update interval is set to 2 minutes.
 
 - **WAIT_FOR_ZERO_SECONDS**  
   Each interval will wait to update at the zero-second mark to ensure cleaner output.
