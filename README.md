@@ -4,6 +4,11 @@
 
 This is a simple script that pulls data from the Big Games API to track your clan battle points. It will call out a period as 'Great' if you score over 70 ppm.
 
+## Setup
+
+**User Data**  
+Enter the nickname of the user(s) you want to track, their Roblox ID(s), and the clan(s) they belong to.
+
 ## Running the Script
 
 ### macOS
@@ -26,11 +31,6 @@ Press `Ctrl + C`.
 ### iOS
 
 1. Use an app like **Pyto** to run the script.
-
-## Setup
-
-**User Data**  
-Enter the nickname of the user(s) you want to track, their Roblox ID(s), and the clan(s) they belong to.
 
 ## Optional Configurations
 
