@@ -54,8 +54,7 @@ Press `Ctrl + C`.
 
 ### Previews
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/e8d7b8d1-ae2d-44a5-a547-2c8745426568">
-
-
+<br />
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/fbeea6f2-5aee-4590-9381-3ccfe174779c">
 
 ## Download
