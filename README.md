@@ -2,7 +2,7 @@
 
 ## About
 
-This is a simple script that pulls data from the Big Games API to track your clan battle points. It will call out a period as Great if you get over 70 ppm.
+This is a simple script that pulls data from the Big Games API to track your clan battle points. It will call out a period as 'Great' if you score over 70 ppm.
 
 ## Running the Script
 
