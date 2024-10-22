@@ -2,7 +2,7 @@
 
 ## About
 
-This is a simple script that pulls data from the Big Games API to track your clan battle points. It will notify you if it thinks you caught a huge, and can also play a YouTube video if you stop registering points.
+This is a simple script that pulls data from the Big Games API to track your clan battle points. It will call out a period as Great if you get over 70 ppm.
 
 ## Running the Script
 
@@ -52,14 +52,11 @@ Enter the nickname of the user(s) you want to track, their Roblox ID(s), and the
 - **ALERT_URL**  
   The URL to visit when a user reports 0 points over multiple consecutive intervals.
 
-### Preview on macOS
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/f3aaf78f-c252-49af-b68e-273c737f9813">
-
 ### Preview on iOS
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/ae247bf7-4cf4-4297-b1a2-5ac7c91ed808">
-
+<img width="300" alt="image" src="[https://github.com/user-attachments/assets/fbeea6f2-5aee-4590-9381-3ccfe174779c]">
 
 ## Download
 Desktop version: [https://github.com/bb9rj/cbpt/blob/main/points_checker_17.py]
 
 Mobile version: [https://github.com/bb9rj/cbpt/blob/main/points_checker_17_mobile.py]
+
