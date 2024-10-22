@@ -43,8 +43,8 @@ Press `Ctrl + C`.
 - **UPDATE_INTERVAL_SECONDS**  
   The default update interval is set to 2 minutes.
 
-- **WAIT_FOR_ZERO_SECONDS**  
-  Each interval will wait to update at the zero-second mark to ensure cleaner output.
+- **WAIT_FOR_15_SECONDS**  
+  Each interval will wait to update at the fifteen second mark to ensure cleaner output.
 
 - **ZERO_POINTS_THRESHOLD**  
   The number of consecutive periods with 0 points reported before triggering an alert.
