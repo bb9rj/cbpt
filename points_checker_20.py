@@ -20,8 +20,7 @@ ZERO_POINTS_URL = "https://www.youtube.com/watch?v=i77QVCt0D4U"  # URL to open w
 data = {
     "labels": {
         "start": "Start",
-        "time": "Time",
-#        "huges": "Huges"
+        "time": "Time"
     },
     "users": [
         dict(name="Ash", id=1524977286, clan="fr3e", last_points=0, current_points=0, total_points_earned=0, consecutive_zeros=0),
