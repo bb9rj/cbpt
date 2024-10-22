@@ -53,8 +53,10 @@ Press `Ctrl + C`.
   The URL to visit when a user reports 0 points over multiple consecutive intervals.
 
 ### Previews
+Desktop
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/c07a36e2-5a96-4328-b8a5-690f15382287">
 <br />
+Mobile
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/fbeea6f2-5aee-4590-9381-3ccfe174779c">
 
 ## Download
