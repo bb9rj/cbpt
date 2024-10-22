@@ -56,5 +56,5 @@ Press `Ctrl + C`.
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/fbeea6f2-5aee-4590-9381-3ccfe174779c">
 
 ## Download
-Halloween battle version: [https://github.com/bb9rj/cbpt/blob/main/points_checker_20_mobile.py]
+Halloween battle version: [https://github.com/bb9rj/cbpt/blob/main/points_checker_20.py]
 
