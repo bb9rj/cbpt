@@ -53,7 +53,7 @@ Enter the nickname of the user(s) you want to track, their Roblox ID(s), and the
   The URL to visit when a user reports 0 points over multiple consecutive intervals.
 
 ### Preview on iOS
-<img width="300" alt="image" src="[https://github.com/user-attachments/assets/fbeea6f2-5aee-4590-9381-3ccfe174779c]">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/fbeea6f2-5aee-4590-9381-3ccfe174779c">
 
 ## Download
 Desktop version: [https://github.com/bb9rj/cbpt/blob/main/points_checker_17.py]
